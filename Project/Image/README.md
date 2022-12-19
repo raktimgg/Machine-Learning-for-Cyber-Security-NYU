@@ -1,1 +1,1 @@
-STRIP defence for trojan attack on text classification.
+STRIP defence for trojan attack on image classification.
